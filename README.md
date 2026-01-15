@@ -77,10 +77,7 @@
 
 <h3 align="center">📲 Connect with Me</h3>
 
-<p align="center">
- <a href="https://www.youtube.com/@Tharindu_2" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="25"/>
-</a>
+
 
   <a href="https://www.linkedin.com/in/tharindu-gamage-816a87298" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://stackoverflow.com/users/22345746/Tharindu" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
@@ -108,9 +105,7 @@
 ### <p align="center">© 2025 Tharindu Gamage | All Rights Reserved</p>
 <p align="center">📧 tharindupushpa802@gmail.com</p>
 <p align="center">
-  <a href="https://www.youtube.com/@Tharindu_2" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="25"/>
-</a>
+
 
   <a href="https://www.linkedin.com/in/tharindu-gamage-816a87298"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a>
   <a href="https://www.instagram.com/tharindu_pushpa/"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
