@@ -78,7 +78,10 @@
 <h3 align="center">📲 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Tharindu_2" target="_blank"><img src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" height="40"/></a>
+ <a href="https://www.youtube.com/@Tharindu_2" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="25"/>
+</a>
+
   <a href="https://www.linkedin.com/in/tharindu-gamage-816a87298" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://stackoverflow.com/users/22345746/Tharindu" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
   <a href="https://www.instagram.com/tharindu_pushpa/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" height="40"/></a>
@@ -90,9 +93,10 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharindugamaga&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugamaga&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tharindugamaga&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugamaga&layout=compact&show_icons=true" height="180"/>
 </p>
+
 
 ---
 
@@ -104,7 +108,10 @@
 ### <p align="center">© 2025 Tharindu Gamage | All Rights Reserved</p>
 <p align="center">📧 tharindupushpa802@gmail.com</p>
 <p align="center">
-  <a href="https://www.youtube.com/@Tharindu_2"><img src="https://skillicons.dev/icons?i=youtube" height="25"/></a>
+  <a href="https://www.youtube.com/@Tharindu_2" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="25"/>
+</a>
+
   <a href="https://www.linkedin.com/in/tharindu-gamage-816a87298"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a>
   <a href="https://www.instagram.com/tharindu_pushpa/"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
 </p> you tube not show 
