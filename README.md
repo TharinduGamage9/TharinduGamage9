@@ -93,9 +93,10 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharindugamaga&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugamaga&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tharindugamaga&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugamaga&layout=compact&show_icons=true" height="180"/>
 </p>
+
 
 ---
 
